@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "312874261904",
+    "firebase_url": "https://auth-c098b.firebaseio.com",
+    "project_id": "auth-c098b",
+    "storage_bucket": "auth-c098b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312874261904:android:7f160ec9d7dee8a8",
+        "android_client_info": {
+          "package_name": "com.example.hp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312874261904-7vn3btgnnfpsapql6f5b75cakmqfmh4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2N7wFt6YjFRe9uX81_Lp21ImdYmGzEnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
